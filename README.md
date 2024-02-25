@@ -1,7 +1,7 @@
 ## Readme
 Trained Models and the Dataset are too large to upload to GitHub.
 
-The structure to replicate is as follows (folders:
+The structure to replicate is as follows (names of folders):
 - data
 - model_checkpoints
 - test
